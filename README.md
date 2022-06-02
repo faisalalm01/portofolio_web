@@ -2,6 +2,7 @@
   <h2>HELLOWW ..... </h2>
   <img src="https://github.com/faisalalm01/portofolio_web/blob/main/public/Frame1.png" width="500" heigth="500">
 </div>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
